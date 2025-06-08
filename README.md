@@ -116,8 +116,8 @@
 ###
 
 <div align="center">
-  <h3>🎵 Currently Listening To</h3>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p23yii2udm4abxgf3wsou3ggqq&count=1" alt="Spotify recently played" />
+  <h3>🎵 Spotify Playing</h3>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31p23yii2udm4abxgf3wsou3ggqq&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Playing" width="350" />
 </div>
 
 ###
