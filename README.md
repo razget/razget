@@ -116,8 +116,15 @@
 ###
 
 <div align="center">
-  <h3>🎵 Spotify Playing</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31p23yii2udm4abxgf3wsou3ggqq&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Playing" width="350" />
+  <h3>🎵 My Music</h3>
+  <p>🎤 Also a Music Artist on Spotify!</p>
+  <a href="https://open.spotify.com/intl-tr/artist/0S3B6RcaMJNBPBdLSS3N81" target="_blank">
+    <img src="https://img.shields.io/badge/Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Artist" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Genre-Electronic-FF6B6B?style=flat-square" alt="Genre" />
+  <img src="https://img.shields.io/badge/Genre-Pop-4ECDC4?style=flat-square" alt="Genre" />
+  <img src="https://img.shields.io/badge/Genre-Hip--Hop-FFD93D?style=flat-square" alt="Genre" />
 </div>
 
 ###
