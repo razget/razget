@@ -1,12 +1,8 @@
-# Merhaba, ben razget! 👋
+# Hello! 👋
 
 [![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-## 📊 GitHub Metrics
-
-![Metrics](https://metrics.lecoq.io/razget?template=classic&config.timezone=Europe%2FIstanbul)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=razget&theme=radical&no-frame=false&no-bg=true&margin-w=4)
