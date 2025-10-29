@@ -25,9 +25,6 @@
 ## 📊 Contribution Graph
 [![razget's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=razget&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🎵 Spotify Playing
-[![Spotify](https://github-readme-spotify-now-playing.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31p23yii2udm4abxgf3wsou3ggqq?si=b1fb43badf8f4484)
-
 ## 🌟 Featured Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=razget&repo=repository-name&theme=radical)](https://github.com/razget/repository-name)
