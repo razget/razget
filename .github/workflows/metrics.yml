@@ -1,0 +1,60 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Europe/Istanbul
+          
+          # Options
+          user: razget
+          template: classic
+          base: header, activity, community, repositories, metadata
+          
+          # Features
+          plugin_lines: yes
+          plugin_topics: yes
+          plugin_topics_mode: starred
+          plugin_topics_sort: stars
+          plugin_topics_limit: 15
+          
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_issues: 100
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_days: 14
+          plugin_reactions_display: absolute
+          
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: classic
