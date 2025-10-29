@@ -1,46 +1,43 @@
-<div align="center">
-  <img height="150" src="https://i.imgur.com/cTpQGoY.png"  />
-</div>
+# Merhaba, ben razget! 👋
 
-###
+[![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<div align="center">
-  <a href="https://www.youtube.com/@razgetreal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/razgetreal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/rrazget" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.com/users/625433814604185612" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="mailto:razget@contents.report">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/razget-benz-067553305/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+## 📊 GitHub Metrics
 
-###
+![Metrics](https://metrics.lecoq.io/razget?template=classic&config.timezone=Europe%2FIstanbul)
 
-<div align="center">
-  <h3>🎵 My Music</h3>
-  <p>🎤 Also a Music Artist on Spotify!</p>
-  <a href="https://open.spotify.com/intl-tr/artist/0S3B6RcaMJNBPBdLSS3N81" target="_blank">
-    <img src="https://img.shields.io/badge/Listen_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Artist" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Genre-Electronic-FF6B6B?style=flat-square" alt="Genre" />
-  <img src="https://img.shields.io/badge/Genre-Pop-4ECDC4?style=flat-square" alt="Genre" />
-  <img src="https://img.shields.io/badge/Genre-Hip--Hop-FFD93D?style=flat-square" alt="Genre" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=razget&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###
+## 📈 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=razget&show_icons=true&theme=radical&hide_border=true" alt="razget's GitHub Stats" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razget&layout=compact&theme=radical&hide_border=true" alt="razget's Top Languages" />
+
+<br clear="both" />
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=razget&theme=radical&hide_border=true)
+
+## 📊 Contribution Graph
+[![razget's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=razget&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🎵 Spotify Playing
+[![Spotify](https://github-readme-spotify-now-playing.vercel.app/api/spotify-playing)](https://open.spotify.com/user/yourusername)
+
+## 🌟 Featured Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=razget&repo=repository-name&theme=radical)](https://github.com/razget/repository-name)
+
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+### 💡 "Don't forget to drink coffee while coding!" ☕
+
+![Profile Views](https://komarev.com/ghpvc/?username=razget&color=brightgreen)
+
 </div>
