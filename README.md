@@ -1,33 +1,34 @@
-# Hello! 👋
+# Hi, I'm razget 👋
 
-[![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/razget/razget/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+Developer from Canada, building game scripts, tools and small web UIs.
+Currently focused on **FiveM resources** (Lua + NUI) and learning modern frontend.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=razget&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🛠 Tech
 
-## 📈 GitHub Stats
+**Languages:** Lua · JavaScript · C++ · Java
+**Frontend:** Svelte · React *(learning)*
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=razget&show_icons=true&theme=radical&hide_border=true" alt="razget's GitHub Stats" />
+## 📦 Projects
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razget&layout=compact&theme=radical&hide_border=true" alt="razget's Top Languages" />
+- **[discord-v14-yapay-zekali](https://github.com/razget/discord-v14-yapay-zekali)**
+  Discord.js v14 bot base with AI integration. *(JavaScript)*
+- **FiveM NUI resource** *(in progress)*
+  Lua client/server with a Svelte-based UI.
 
-<br clear="both" />
+## 🎯 Currently
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=razget&theme=radical&hide_border=true)
+- Building my first public FiveM resource with a Svelte NUI
+- Learning how open source projects review and merge contributions
+- Working towards my first pull requests to FiveM libraries
 
-## 📊 Contribution Graph
-[![razget's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=razget&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🤝 Open to
 
-## 🌟 Featured Repositories
+- Contributing to open source (docs, bug fixes, small features)
+- Feedback on my code, always welcome
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=razget&repo=repository-name&theme=radical)](https://github.com/razget/repository-name)
+## 📫 Links
 
----
-
-<div align="center">
+[Website](https://kevweb.net)">
 
 ### 💡 "Don't forget to drink coffee while coding!" ☕
 
