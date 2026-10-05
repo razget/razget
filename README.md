@@ -10,8 +10,10 @@ Currently focused on **FiveM resources** (Lua + NUI) and learning modern fronten
 
 ## 📦 Projects
 
-- **[discord-v14-yapay-zekali](https://github.com/razget/discord-v14-yapay-zekali)**
+- **[discord-v14-bot](https://github.com/razget/discord-v14-bot)**
   Discord.js v14 bot base with AI integration. *(JavaScript)*
+- **[versions](https://github.com/razget/versions)**
+  Version tracking for some FiveM nation scripts.
 - **FiveM NUI resource** *(in progress)*
   Lua client/server with a Svelte-based UI.
 
@@ -33,5 +35,3 @@ Currently focused on **FiveM resources** (Lua + NUI) and learning modern fronten
 ### 💡 "Don't forget to drink coffee while coding!" ☕
 
 ![Profile Views](https://komarev.com/ghpvc/?username=razget&color=brightgreen)
-
-</div>
